@@ -1,1 +1,3 @@
-# Sports-Tournament-Database-in-C-by-Faysal-Hossain-Tomal
+# This is simple Sports Tournament Database created using C language using various data structures.
+# I created this project for my Data Structures course at the university.
+# Feel free to take inspiration from it.
